@@ -1,6 +1,6 @@
 # MyCaliber
 
-The code implements *My*elinated axon *Caliber* estimation in [Hong-Hsi Lee et al. 2025](), a new technique for axonal diameter mapping from myelin water diffusion.
+The code implements *My*elinated axon *Caliber* estimation in [Hong-Hsi Lee et al., IEEE TMI 2026](https://doi.org/10.1109/TMI.2026.3664328), a new technique for axonal diameter mapping from myelin water diffusion.
 
 * **Demo 1, radial diffusivity of cylindrical surface (zero thickness)**
 * **Demo 2, radial diffusivity of cylindrical shell (finite thickness)**
@@ -11,7 +11,7 @@ The code implements *My*elinated axon *Caliber* estimation in [Hong-Hsi Lee et a
 
 ## References
 * **MyCaliber: Myelinated axon Caliber estimation**
-  - [Hong-Hsi Lee et al. 2025]()
+  - [Hong-Hsi Lee et al., IEEE TMI 2026](https://doi.org/10.1109/TMI.2026.3664328)
 
 ## Authors
 * [Hong-Hsi Lee](https://www.martinos.org/investigator/hong-hsi-lee/)
